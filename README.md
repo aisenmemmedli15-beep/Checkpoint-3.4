@@ -1,4 +1,4 @@
-# LLM Tool Execution Project (Devjoint Checkpoint 3)
+# LLM Tool Execution Project 
 Bu layihə, böyük dil modellərinin (LLM) xarici alətlərlə (Tools/Functions) inteqrasiyasını və iki mərhələli sorğu axınını həyata keçirən Python tətbiqidir. Tətbiq alətlərin icrasından əldə olunan nəticələri LLM-ə geri ötürərək təbii dildə yekun cavablar formallaşdırır.
 # Layihənin Xüsusiyyətləri
 
